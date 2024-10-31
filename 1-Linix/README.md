@@ -41,6 +41,7 @@ sudo usermod -aG sudo user
 
 <details>
 <summary>🤘🗿🎸</summary>
+
 ```toml
 [Verse 1]
 Load up on guns, bring your friends
@@ -124,6 +125,7 @@ A denial, a denial
 A denial, a denial
 A denial
 ```
+
 </details>
 
 
