@@ -1,0 +1,9 @@
+/Users/misterzurg/Documents/GitHub/TBank-FSA/2-Docker/rust_app/target/debug/deps/libserde_path_to_error-8784b7a0ccff6e89.rmeta: /Users/misterzurg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_path_to_error-0.1.16/src/lib.rs /Users/misterzurg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_path_to_error-0.1.16/src/de.rs /Users/misterzurg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_path_to_error-0.1.16/src/path.rs /Users/misterzurg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_path_to_error-0.1.16/src/ser.rs /Users/misterzurg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_path_to_error-0.1.16/src/wrap.rs
+
+/Users/misterzurg/Documents/GitHub/TBank-FSA/2-Docker/rust_app/target/debug/deps/serde_path_to_error-8784b7a0ccff6e89.d: /Users/misterzurg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_path_to_error-0.1.16/src/lib.rs /Users/misterzurg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_path_to_error-0.1.16/src/de.rs /Users/misterzurg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_path_to_error-0.1.16/src/path.rs /Users/misterzurg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_path_to_error-0.1.16/src/ser.rs /Users/misterzurg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_path_to_error-0.1.16/src/wrap.rs
+
+/Users/misterzurg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_path_to_error-0.1.16/src/lib.rs:
+/Users/misterzurg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_path_to_error-0.1.16/src/de.rs:
+/Users/misterzurg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_path_to_error-0.1.16/src/path.rs:
+/Users/misterzurg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_path_to_error-0.1.16/src/ser.rs:
+/Users/misterzurg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_path_to_error-0.1.16/src/wrap.rs:

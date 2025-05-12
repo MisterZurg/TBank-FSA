@@ -1,0 +1,8 @@
+CREATE TABLE IF NOT EXISTS notes (
+    id SERIAL PRIMARY KEY,
+    title TEXT,
+    content TEXT
+    -- created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    -- updated_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    -- deleted_at TIMESTAMP
+);

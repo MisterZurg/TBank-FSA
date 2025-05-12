@@ -1,0 +1,9 @@
+/Users/misterzurg/Documents/GitHub/TBank-FSA/2-Docker/rust_app/target/debug/deps/libpostgres_types-1de8a0a95f790592.rmeta: /Users/misterzurg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/postgres-types-0.2.8/src/lib.rs /Users/misterzurg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/postgres-types-0.2.8/src/pg_lsn.rs /Users/misterzurg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/postgres-types-0.2.8/src/private.rs /Users/misterzurg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/postgres-types-0.2.8/src/special.rs /Users/misterzurg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/postgres-types-0.2.8/src/type_gen.rs
+
+/Users/misterzurg/Documents/GitHub/TBank-FSA/2-Docker/rust_app/target/debug/deps/postgres_types-1de8a0a95f790592.d: /Users/misterzurg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/postgres-types-0.2.8/src/lib.rs /Users/misterzurg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/postgres-types-0.2.8/src/pg_lsn.rs /Users/misterzurg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/postgres-types-0.2.8/src/private.rs /Users/misterzurg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/postgres-types-0.2.8/src/special.rs /Users/misterzurg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/postgres-types-0.2.8/src/type_gen.rs
+
+/Users/misterzurg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/postgres-types-0.2.8/src/lib.rs:
+/Users/misterzurg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/postgres-types-0.2.8/src/pg_lsn.rs:
+/Users/misterzurg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/postgres-types-0.2.8/src/private.rs:
+/Users/misterzurg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/postgres-types-0.2.8/src/special.rs:
+/Users/misterzurg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/postgres-types-0.2.8/src/type_gen.rs:

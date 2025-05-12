@@ -1,0 +1,13 @@
+[package]
+name = "rust_app"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+axum = "0.8.1"
+tokio = { version = "1.40.0" , features = ["full"] }
+serde = { version = "1.0.210", features = ["derive"] }
+tokio-postgres = "0.7.12"
+
+envy = { version = "0.4"}
+envconfig = "0.10.0"

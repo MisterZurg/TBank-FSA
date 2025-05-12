@@ -1,0 +1,1 @@
+/Users/misterzurg/Documents/GitHub/TBank-FSA/2-Docker/rust_app/target/debug/rust_app: /Users/misterzurg/Documents/GitHub/TBank-FSA/2-Docker/rust_app/src/config/mod.rs /Users/misterzurg/Documents/GitHub/TBank-FSA/2-Docker/rust_app/src/main.rs /Users/misterzurg/Documents/GitHub/TBank-FSA/2-Docker/rust_app/src/model/mod.rs
